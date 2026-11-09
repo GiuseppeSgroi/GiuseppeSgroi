@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi there, I'm Giuseppe Sgroi 👋
 
-<!--
-**GiuseppeSgroi/GiuseppeSgroi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack & Systems Developer pursuing Computer Science at Università degli Studi di Catania (UNICT). I focus on building high-performance web applications, privacy-first local AI tools, and secure software architectures.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack & Core Competencies
+
+**Languages & Logic:**
+`C++` `Python` `Java` `TypeScript` `JavaScript` `C` `SQL`
+
+**Web & Frameworks:**
+`Next.js` `React` `FastAPI` `Node.js` `Tailwind CSS` `REST APIs`
+
+**Systems, DevOps & AI:**
+`Linux (Ubuntu/Fedora)` `Docker` `Git` `Vercel` `Ollama / Local LLMs` `PostgreSQL` `Digital Forensics`
+
+---
+
+### 🔭 Current Focus & Open Source Goals
+
+- 🎓 **Academic:** Completing B.S. in Computer Science @ UNICT.
+- 🤖 **AI & Automation:** Building self-hosted, local LLM workspaces using Next.js & Python.
+- 🛡 **Security:** Exploring Vulnerability Assessment, System Hardening, and Forensics.
+- ⚡ **SaaS & Web:** Engineering pragmatic solutions for micro-retail and business operations.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GiuseppeSgroi&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Giuseppe's GitHub Stats" />
+</p>
