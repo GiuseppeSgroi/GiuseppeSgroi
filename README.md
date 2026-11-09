@@ -6,13 +6,13 @@ Full-Stack & Systems Developer pursuing Computer Science at Università degli St
 
 ### 🛠 Tech Stack & Core Competencies
 
-**Languages & Logic:**
+**Languages & Logic:**  
 `C++` `Python` `Java` `TypeScript` `JavaScript` `C` `SQL`
 
-**Web & Frameworks:**
+**Web & Frameworks:**  
 `Next.js` `React` `FastAPI` `Node.js` `Tailwind CSS` `REST APIs`
 
-**Systems, DevOps & AI:**
+**Systems, DevOps & AI:**  
 `Linux (Ubuntu/Fedora)` `Docker` `Git` `Vercel` `Ollama / Local LLMs` `PostgreSQL` `Digital Forensics`
 
 ---
@@ -23,11 +23,3 @@ Full-Stack & Systems Developer pursuing Computer Science at Università degli St
 - 🤖 **AI & Automation:** Building self-hosted, local LLM workspaces using Next.js & Python.
 - 🛡 **Security:** Exploring Vulnerability Assessment, System Hardening, and Forensics.
 - ⚡ **SaaS & Web:** Engineering pragmatic solutions for micro-retail and business operations.
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GiuseppeSgroi&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Giuseppe's GitHub Stats" />
-</p>
